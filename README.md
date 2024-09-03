@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Rojas, Electronic engineering, I am learning programming for my self. 
 - 👀 I’m interested in Animals, Plants, Soccer, All about tecnology,
-- 🌱 I’m currently learning Flutter, Java, 
+- 🌱 I’m currently learning Flutter, Java, Node Js, Python
 - 📫 How to reach me chepe22jd@gmail.com
 
 <!---
